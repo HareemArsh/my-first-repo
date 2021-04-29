@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
 # Name: Hareen Arshad
 # Collaborators: no
-# Time spent:  3 days
+# Time spent:  4 days
 
 # Hangman Game
 # -----------------------------------
